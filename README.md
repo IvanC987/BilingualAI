@@ -25,6 +25,12 @@ This project is a revisitation of my original work in `LanguageTranslationModel`
 My goal this time was to rebuild everything, revisit the fundamentals, and strengthen my understanding of the basics — as I believe a solid foundational knowledge is essential in this field.
 This translation model have 32M parameters, trained on a dataset of 1M en-zh sentence pairs for 10 epochs. 
 
+
+<p align="center">
+  <img src="demo.gif" alt="Translation GIF">
+</p>
+
+
 ---
 
 ## What Changed Since the Original
