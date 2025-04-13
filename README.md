@@ -112,16 +112,16 @@ The exclusion for special characters was based on a certain ratio. (E.g. if more
 That removed heavily noised samples such as the following: 
 
 ---------------------
-We don\\\\\\\'t have so many people from other places and we don\\\\\\\'t have Asian restaurants. The waiters in restaurants have uniforms. <br>
-The changes that have occurred in the U.S. housing market in the last decade aren\\\\\\\\\\\\\\\'t much different than the changes that occurred in Japan\\\\\\\\\\\\\\\'s boom market. <br>
-View <cake:nocache></cake:nocache> markup <br>
-pi * ti * 0.. <br>
-The /*-{ and }-*/ delimiters for the method implementation <br>
-The argument of the function should be @@@ARGS@@@. <br>
-I am the living example of the \\\"triangle of life\\\". <br>
-sed -n 's/.*. <br>
-iptables [-t table] command [match] [target] <br>
-1/4 cup chopped pecans almonds or peanuts< o<="" span=""> <br>
+- We don\\\\\\\'t have so many people from other places and we don\\\\\\\'t have Asian restaurants. The waiters in restaurants have uniforms. <br>
+- The changes that have occurred in the U.S. housing market in the last decade aren\\\\\\\\\\\\\\\'t much different than the changes that occurred in Japan\\\\\\\\\\\\\\\'s boom market. <br>
+- View <cake:nocache></cake:nocache> markup <br>
+- pi * ti * 0.. <br>
+- The /*-{ and }-*/ delimiters for the method implementation <br>
+- The argument of the function should be @@@ARGS@@@. <br>
+- I am the living example of the \\\"triangle of life\\\". <br>
+- sed -n 's/.*. <br>
+- iptables [-t table] command [match] [target] <br>
+- 1/4 cup chopped pecans almonds or peanuts< o<="" span=""> <br>
 ---------------------
 
 These were likely shell commands, code snippets, or malformed outputs. <br>
